@@ -1,3 +1,9 @@
+<?php
+
+echo 'testing php';
+
+?>
+
 <!DOCTYPE html>
 <html>
 <body>
